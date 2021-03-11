@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/kapildoppiogroup/json_the_cat#readme",
   "dependencies": {
+    "and": "^0.0.3",
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.3",
+    "mocha": "^8.3.1"
   }
 }
